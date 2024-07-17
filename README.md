@@ -1121,12 +1121,6 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1039/c8ra00596f](https://doi.org/10.1039/c8ra00596f): <sup>17</sup>O solid-state NMR spectroscopy of A<sub>2</sub>B<sub>2</sub>O<sub>7</sub>oxides: quantitative isotopic enrichment and spectral acquisition?
 ## <sup>175</sup>Lu
 * [10.1021/acs.jpca.3c02350](https://doi.org/10.1021/acs.jpca.3c02350): Experimentally Established <sup>15</sup>N NMR Absolute Shielding Scale for Theoretical Calculations
-## <sup>177</sup>Hf
-* [DOI:](https://doi.org/DOI:): 
-## <sup>10</sup>.1002/chem.201301268
-* [A Study of Transition‐Metal Organometallic Complexes Combining <sup>35</sup>Cl Solid‐State NMR Spectroscopy and <sup>35</sup>Cl NQR Spectroscopy and First‐Principles DFT Calculations
-](https://doi.org/A Study of Transition‐Metal Organometallic Complexes Combining <sup>35</sup>Cl Solid‐State NMR Spectroscopy and <sup>35</sup>Cl NQR Spectroscopy and First‐Principles DFT Calculations
-): 
 ## <sup>181</sup>Ta
 * [10.1021/ic501004u](https://doi.org/10.1021/ic501004u): An Investigation of Chlorine Ligands in Transition-Metal Complexes via <sup>35</sup>Cl Solid-State NMR and Density Functional Theory Calculations
 * [10.1039/b604520k](https://doi.org/10.1039/b604520k): <sup>23</sup>Na multiple-quantum MAS NMR of the perovskites NaNbO<sub>3</sub>and NaTaO<sub>3</sub>
