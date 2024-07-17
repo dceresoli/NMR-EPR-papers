@@ -93,10 +93,6 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [dx.doi.org/10.1021/jp405813a](https://doi.org/dx.doi.org/10.1021/jp405813a): Structure of NaYF<sub>4</sub> Upconverting Nanoparticles: A Multinuclear Solid-State NMR and DFT Computational Study
 * [dx.doi.org/10.1021/jp503277m](https://doi.org/dx.doi.org/10.1021/jp503277m): Visibility of Al Surface Sites of γ-Alumina: A Combined Computational and Experimental Point of View
 * [dx.doi.org/10.1021/jp507644z](https://doi.org/dx.doi.org/10.1021/jp507644z): Investigating Relationships between the Crystal Structure and <sup>31</sup>P Isotropic Chemical Shifts in Calcined Aluminophosphates
-* [j.clay.2016.03.001](https://doi.org/j.clay.2016.03.001): 
-* [j.ijhydene.2014.02.150](https://doi.org/j.ijhydene.2014.02.150): 
-* [j.ijhydene.2016.03.040](https://doi.org/j.ijhydene.2016.03.040): 
-* [j.jmr.2018.01.016](https://doi.org/j.jmr.2018.01.016): 
 ## <sup>2</sup>H
 * [10.1002/chem.201301268](https://doi.org/10.1002/chem.201301268): A Study of Transition‐Metal Organometallic Complexes Combining <sup>35</sup>Cl Solid‐State NMR Spectroscopy and <sup>35</sup>Cl NQR Spectroscopy and First‐Principles DFT Calculations
 * [10.1002/ejic.201402561](https://doi.org/10.1002/ejic.201402561): Coordination Polymers Based on Alkylboronate Ligands: Synthesis, Characterization, and Computational Modelling
@@ -333,7 +329,6 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1039/b616821c](https://doi.org/10.1039/b616821c): A solid-state 55Mn NMR spectroscopy and DFT investigation of manganese pentacarbonyl compounds
 * [10.1039/b911448n](https://doi.org/10.1039/b911448n): Crystallographic structure refinement with quadrupolar nuclei: a combined solid-state NMR and GIPAW DFT example using MgBr2
 * [10.1039/b914008p](https://doi.org/10.1039/b914008p): Solid-state NMR spectroscopy
-* [10.1039/C3CE41258JD](https://doi.org/10.1039/C3CE41258JD): 
 * [10.1039/C3CP54123A](https://doi.org/10.1039/C3CP54123A): Calculating NMR parameters in aluminophosphates: evaluation of dispersion correction schemes
 * [10.1039/C4CE00313F](https://doi.org/10.1039/C4CE00313F): A combined experimental-computational study of benzoxaborole crystal structures
 * [10.1039/c4ce00345d](https://doi.org/10.1039/c4ce00345d): Probing halogen bonds with solid-state NMR spectroscopy: observation and interpretation of J(<sup>77</sup>Se,<sup>31</sup>P) coupling in halogen-bonded PSe⋯I motifs
@@ -342,7 +337,7 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1039/C4TA02987A](https://doi.org/10.1039/C4TA02987A): <scp>d</scp>-Glucopyranose-modified compound of Ruddlesden–Popper phases H<sub>2</sub>CaTa<sub>2</sub>O<sub>7</sub>: characterization and intercalation with Ag
 * [10.1039/c5cp03348a](https://doi.org/10.1039/c5cp03348a): Chemical-shift tensors of heavy nuclei in network solids: a DFT/ZORA investigation of <sup>207</sup>Pb chemical-shift tensors using the bond-valence method
 * [10.1039/c8cs00321a](https://doi.org/10.1039/c8cs00321a): Alumina: discriminative analysis using 3D correlation of solid-state NMR parameters
-* [10.1103/PhysRevB.76.035102](https://doi.org/10.1103/PhysRevB.76.035102): Density functional theory investigation of<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mrow><mml:mn>3</mml:mn><mml:mi>d</mml:mi></mml:mrow></mml:math>transition metal NMR shielding tensors in diamagnetic systems using the gauge-including projector augmented-wave method
+* [10.1103/PhysRevB.76.035102](https://doi.org/10.1103/PhysRevB.76.035102): Density functional theory investigation of 3d transition metal NMR shielding tensors in diamagnetic systems using the gauge-including projector augmented-wave method
 * [10.1107/S2053229616015023](https://doi.org/10.1107/S2053229616015023): <sup>13</sup>C and<sup>19</sup>F solid-state NMR and X-ray crystallographic study of halogen-bonded frameworks featuring nitrogen-containing heterocycles
 ## <sup>14</sup>N
 * [10.1002/mrc.5420](https://doi.org/10.1002/mrc.5420): Predicting <sup>51</sup>V nuclear magnetic resonance observables in molecular crystals
@@ -402,7 +397,7 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1016/j.ijhydene.2014.02.150](https://doi.org/10.1016/j.ijhydene.2014.02.150): Structure of nanoconfined LiBH4 from first principles 11B NMR chemical shifts calculations
 * [10.1016/j.jmr.2010.01.004](https://doi.org/10.1016/j.jmr.2010.01.004): Solid-state NMR calculations for metal oxides and gallates: Shielding and quadrupolar parameters for perovskites and related phases
 * [10.1016/j.jmr.2018.01.016](https://doi.org/10.1016/j.jmr.2018.01.016): Two-site jumps in dimethyl sulfone studied by one- and two-dimensional 17O NMR spectroscopy
-* [10.1016/j.molstruc.2015.05.004](https://doi.org/10.1016/j.molstruc.2015.05.004): Structural analysis of zeolite beta through periodic ab initio simulations of XRD and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si26.gif" overflow="scroll"><mml:mrow><mml:msup><mml:mrow/><mml:mrow><mml:mn>29</mml:mn></mml:mrow></mml:msup><mml:mtext>Si</mml:mtext></mml:mrow></mml:math> and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si27.gif" overflow="scroll"><mml:mrow><mml:msup><mml:mrow/><mml:mrow><mml:mn>17</mml:mn></mml:mrow></mml:msup><mml:mtext>O</mml:mtext></mml:mrow></mml:math> NMR spectra
+* [10.1016/j.molstruc.2015.05.004](https://doi.org/10.1016/j.molstruc.2015.05.004): Structural analysis of zeolite beta through periodic ab initio simulations of XRD and <sup>29</sup>Si and <sup>17</sup>O NMR spectra
 * [10.1016/j.pnmrs.2018.08.002](https://doi.org/10.1016/j.pnmrs.2018.08.002): Recent advances in solid-state nuclear magnetic resonance spectroscopy of exotic nuclei
 * [10.1016/j.ssnmr.2014.08.003](https://doi.org/10.1016/j.ssnmr.2014.08.003): On the crystal structure of the vaterite polymorph of CaCO3: A calcium-43 solid-state NMR and computational assessment
 * [10.1016/j.ssnmr.2016.12.009](https://doi.org/10.1016/j.ssnmr.2016.12.009): 127I NMR calculations in binary metal iodides by PBE-GGA, YS-PBE0 and mBJ exchange correlation potentials
@@ -447,7 +442,6 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1021/jp510021z](https://doi.org/10.1021/jp510021z): First-Principles Calculations and Analysis of<sup>29</sup>Si Nuclear Magnetic Resonance Chemical Shifts in Silicon Oxycarbide Ceramics
 * [10.1021/jp512304e](https://doi.org/10.1021/jp512304e): Lithium Doping of MgAl<sub>2</sub>O<sub>4</sub> and ZnAl<sub>2</sub>O<sub>4</sub> Investigated by High-Resolution Solid State NMR
 * [10.1039/b914008p](https://doi.org/10.1039/b914008p): Solid-state NMR spectroscopy
-* [10.1039/c0xx00000x](https://doi.org/10.1039/c0xx00000x): 
 * [10.1039/c1cp21253b](https://doi.org/10.1039/c1cp21253b): NMR parameters in alkali, alkaline earth and rare earth fluorides from first principle calculations
 * [10.1039/C3CE41258J](https://doi.org/10.1039/C3CE41258J): A multinuclear solid state NMR, density functional theory and X-Ray diffraction study of hydrogen bonding in Group I hydrogen dibenzoates
 * [10.1039/C3CP53642D](https://doi.org/10.1039/C3CP53642D): Joint experimental and computational 17O solid state NMR study of Brownmillerite Ba2In2O5
@@ -459,7 +453,7 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1039/c8ra00596f](https://doi.org/10.1039/c8ra00596f): <sup>17</sup>O solid-state NMR spectroscopy of A<sub>2</sub>B<sub>2</sub>O<sub>7</sub>oxides: quantitative isotopic enrichment and spectral acquisition?
 * [10.1039/D4FD00075G](https://doi.org/10.1039/D4FD00075G): The EFG Rosetta Stone: Translating between DFT calculations and solid state NMR experiments
 * [10.1063/1.1398095](https://doi.org/10.1063/1.1398095): Comparison of <i>ab initio</i> and density functional calculations of electric field gradients: The Fe57 nuclear quadrupole moment from Mössbauer data
-* [10.1103/PhysRevB.76.035102](https://doi.org/10.1103/PhysRevB.76.035102): Density functional theory investigation of<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mrow><mml:mn>3</mml:mn><mml:mi>d</mml:mi></mml:mrow></mml:math>transition metal NMR shielding tensors in diamagnetic systems using the gauge-including projector augmented-wave method
+* [10.1103/PhysRevB.76.035102](https://doi.org/10.1103/PhysRevB.76.035102): Density functional theory investigation of 3d transition metal NMR shielding tensors in diamagnetic systems using the gauge-including projector augmented-wave method
 * [10.1111/jace.14845](https://doi.org/10.1111/jace.14845): Understanding the structural origin of crystalline phase transformations in nepheline (NaAlSiO<sub>4</sub>)‐based glass‐ceramics
 ## <sup>19</sup>F
 * [10.1002/cmr.a.10096](https://doi.org/10.1002/cmr.a.10096): Calculations of chemical shieldings: Theory and applications
@@ -535,7 +529,6 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1021/jp510021z](https://doi.org/10.1021/jp510021z): First-Principles Calculations and Analysis of<sup>29</sup>Si Nuclear Magnetic Resonance Chemical Shifts in Silicon Oxycarbide Ceramics
 * [10.1021/jp512304e](https://doi.org/10.1021/jp512304e): Lithium Doping of MgAl<sub>2</sub>O<sub>4</sub> and ZnAl<sub>2</sub>O<sub>4</sub> Investigated by High-Resolution Solid State NMR
 * [10.1039/b604520k](https://doi.org/10.1039/b604520k): <sup>23</sup>Na multiple-quantum MAS NMR of the perovskites NaNbO<sub>3</sub>and NaTaO<sub>3</sub>
-* [10.1039/c0xx00000x](https://doi.org/10.1039/c0xx00000x): 
 * [10.1039/c1cp21253b](https://doi.org/10.1039/c1cp21253b): NMR parameters in alkali, alkaline earth and rare earth fluorides from first principle calculations
 * [10.1039/c3ce41233d](https://doi.org/10.1039/c3ce41233d): Structural assessment of anhydrous sulfates with high field 33S solid state NMR and first principles calculations
 * [10.1039/C3CP53642D](https://doi.org/10.1039/C3CP53642D): Joint experimental and computational 17O solid state NMR study of Brownmillerite Ba2In2O5
@@ -570,8 +563,6 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1039/c4dt03283g](https://doi.org/10.1039/c4dt03283g): Structural and luminescence studies of the new nitridomagnesoaluminate CaMg<sub>2</sub>AlN<sub>3</sub>
 * [10.1107/S205322961601929X](https://doi.org/10.1107/S205322961601929X): Insight into the local environment of magnesium and calcium in low-coordination-number organo-complexes using <sup>25</sup>Mg and <sup>43</sup>Ca solid-state NMR: a DFT study
 * [10.1107/S2053229617000687](https://doi.org/10.1107/S2053229617000687): <i>Ab initio</i> crystal structure prediction of magnesium (poly)sulfides and calculation of their NMR parameters
-* [j.clay.2016.03.001](https://doi.org/j.clay.2016.03.001): 
-* [j.clay.2017.03.025](https://doi.org/j.clay.2017.03.025): 
 ## <sup>27</sup>Al
 * [10.1002/chem.200700056](https://doi.org/10.1002/chem.200700056): Alkaline Earth Chloride Hydrates: Chlorine Quadrupolar and Chemical Shift Tensors by Solid‐State NMR Spectroscopy and Plane Wave Pseudopotential Calculations
 * [10.1002/cmr.a.10096](https://doi.org/10.1002/cmr.a.10096): Calculations of chemical shieldings: Theory and applications
@@ -637,7 +628,7 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1002/zaac.201400194](https://doi.org/10.1002/zaac.201400194): The Zintl Phase Cs<sub>7</sub>NaSi<sub>8</sub> – From NMR Signal Line Shape Analysis and Quantum Mechanical Calculations to Chemical Bonding
 * [10.1016/j.clay.2016.03.001](https://doi.org/10.1016/j.clay.2016.03.001): Na+ as a probe to structural investigation of dehydrated smectites using NMR spectra calculated by DFT
 * [10.1016/j.clay.2017.03.025](https://doi.org/10.1016/j.clay.2017.03.025): Structural and thermodynamic investigation of the hydration-dehydration process of Na+-Montmorillonite using DFT calculations
-* [10.1016/j.molstruc.2015.05.004](https://doi.org/10.1016/j.molstruc.2015.05.004): Structural analysis of zeolite beta through periodic ab initio simulations of XRD and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si26.gif" overflow="scroll"><mml:mrow><mml:msup><mml:mrow/><mml:mrow><mml:mn>29</mml:mn></mml:mrow></mml:msup><mml:mtext>Si</mml:mtext></mml:mrow></mml:math> and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si27.gif" overflow="scroll"><mml:mrow><mml:msup><mml:mrow/><mml:mrow><mml:mn>17</mml:mn></mml:mrow></mml:msup><mml:mtext>O</mml:mtext></mml:mrow></mml:math> NMR spectra
+* [10.1016/j.molstruc.2015.05.004](https://doi.org/10.1016/j.molstruc.2015.05.004): Structural analysis of zeolite beta through periodic ab initio simulations of XRD and <sup>29</sup>Si and <sup>17</sup>O NMR spectra
 * [10.1016/j.pnmrs.2018.08.002](https://doi.org/10.1016/j.pnmrs.2018.08.002): Recent advances in solid-state nuclear magnetic resonance spectroscopy of exotic nuclei
 * [10.1016/j.ssnmr.2017.04.001](https://doi.org/10.1016/j.ssnmr.2017.04.001): Modeling short-range substitution order and disorder in crystals: Application to the Ga/Si distribution in a natrolite zeolite
 * [10.1021/acs.accounts.7b00153](https://doi.org/10.1021/acs.accounts.7b00153): Structural Characterization of Intermetallic Compounds by <sup>27</sup>Al Solid State NMR Spectroscopy
@@ -669,13 +660,12 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1021/jp510021z](https://doi.org/10.1021/jp510021z): First-Principles Calculations and Analysis of<sup>29</sup>Si Nuclear Magnetic Resonance Chemical Shifts in Silicon Oxycarbide Ceramics
 * [10.1021/jp512971a](https://doi.org/10.1021/jp512971a): Structural Characterization of Mg-Stabilized Amorphous Calcium Carbonate by Mg-25 Solid-State NMR Spectroscopy
 * [10.1039/b914008p](https://doi.org/10.1039/b914008p): Solid-state NMR spectroscopy
-* [10.1039/c0xx00000x](https://doi.org/10.1039/c0xx00000x): 
 * [10.1039/c1cp21253b](https://doi.org/10.1039/c1cp21253b): NMR parameters in alkali, alkaline earth and rare earth fluorides from first principle calculations
 * [10.1039/C3CP53642D](https://doi.org/10.1039/C3CP53642D): Joint experimental and computational 17O solid state NMR study of Brownmillerite Ba2In2O5
 * [10.1039/C4CE01749H](https://doi.org/10.1039/C4CE01749H): Density functional theory study of the magnetic shielding mechanism for<sup>11</sup>B in pentaborate minerals: ulexite and probertite
 * [10.1039/C4CP01682C](https://doi.org/10.1039/C4CP01682C): Calculation of chemical-shift tensors of heavy nuclei: a DFT/ZORA investigation of <sup>199</sup>Hg chemical-shift tensors in solids, and the effects of cluster size and electronic-state approximations
 * [10.1039/c5cp03348a](https://doi.org/10.1039/c5cp03348a): Chemical-shift tensors of heavy nuclei in network solids: a DFT/ZORA investigation of <sup>207</sup>Pb chemical-shift tensors using the bond-valence method
-* [10.1103/PhysRevB.76.035102](https://doi.org/10.1103/PhysRevB.76.035102): Density functional theory investigation of<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mrow><mml:mn>3</mml:mn><mml:mi>d</mml:mi></mml:mrow></mml:math>transition metal NMR shielding tensors in diamagnetic systems using the gauge-including projector augmented-wave method
+* [10.1103/PhysRevB.76.035102](https://doi.org/10.1103/PhysRevB.76.035102): Density functional theory investigation of 3d transition metal NMR shielding tensors in diamagnetic systems using the gauge-including projector augmented-wave method
 * [10.1111/jace.14845](https://doi.org/10.1111/jace.14845): Understanding the structural origin of crystalline phase transformations in nepheline (NaAlSiO<sub>4</sub>)‐based glass‐ceramics
 * [10.2465/jmps.151104a](https://doi.org/10.2465/jmps.151104a): Cation distribution in Mg–Zn olivine solid solution: a &lt;sup&gt;29&lt;/sup&gt;Si MAS NMR and first–principles calculation study
 ## <sup>31</sup>P
@@ -723,7 +713,7 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1039/C4CE00544A](https://doi.org/10.1039/C4CE00544A): <sup>35</sup>Cl solid-state NMR of HCl salts of active pharmaceutical ingredients: structural prediction, spectral fingerprinting and polymorph recognition
 * [10.1039/C4CE00727A](https://doi.org/10.1039/C4CE00727A): Dynamics of water molecules and sodium ions in solid hydrates of nucleotides
 * [10.1063/1.5075519](https://doi.org/10.1063/1.5075519): Local-structure effects on 31P NMR chemical shift tensors in solid state
-* [10.1103/PhysRevB.76.035102](https://doi.org/10.1103/PhysRevB.76.035102): Density functional theory investigation of<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mrow><mml:mn>3</mml:mn><mml:mi>d</mml:mi></mml:mrow></mml:math>transition metal NMR shielding tensors in diamagnetic systems using the gauge-including projector augmented-wave method
+* [10.1103/PhysRevB.76.035102](https://doi.org/10.1103/PhysRevB.76.035102): Density functional theory investigation of 3d transition metal NMR shielding tensors in diamagnetic systems using the gauge-including projector augmented-wave method
 ## <sup>33</sup>S
 * [10.1016/j.pnmrs.2018.08.002](https://doi.org/10.1016/j.pnmrs.2018.08.002): Recent advances in solid-state nuclear magnetic resonance spectroscopy of exotic nuclei
 * [10.1021/ic500891j](https://doi.org/10.1021/ic500891j): Solid-State <sup>29</sup>Si NMR and Neutron-Diffraction Studies of Sr<sub>0.7</sub>K<sub>0.3</sub>SiO<sub>2.85</sub> Oxide Ion Conductors
@@ -745,8 +735,8 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1021/acs.jpca.8b11490](https://doi.org/10.1021/acs.jpca.8b11490): <sup>121/123</sup>Sb Nuclear Quadrupole Resonance Spectroscopy: Characterization of Non-Covalent Pnictogen Bonds and NQR Crystallography
 * [10.1021/acs.jpcc.6b02806](https://doi.org/10.1021/acs.jpcc.6b02806): <sup>35</sup>Cl Solid-State NMR and Computational Study of Chlorine Halogen Bond Donors in Single-Component Crystalline Chloronitriles
 * [10.1021/acs.jpcc.9b02617](https://doi.org/10.1021/acs.jpcc.9b02617): Preactive Site in Ziegler–Natta Catalysts
-## <sup>35</sup>Cl10.1021/cg201683p
-* [Weak Halogen Bonding in Solid Haloanilinium Halides Probed Directly via Chlorine-35](https://doi.org/Weak Halogen Bonding in Solid Haloanilinium Halides Probed Directly via Chlorine-35):  Bromine-81, and Iodine-127 NMR Spectroscopy
+## <sup>35</sup>Cl
+* [10.1021/cg201683p](https://doi.org/10.1021/cg201683p): Weak Halogen Bonding in Solid Haloanilinium Halides Probed Directly via Chlorine-35, Bromine-81, and Iodine-127 NMR Spectroscopy
 ## <sup>35</sup>Cl
 * [10.1021/ic500728w](https://doi.org/10.1021/ic500728w): Chlorine-35 Solid-State NMR Spectroscopy as an Indirect Probe of Germanium Oxidation State and Coordination Environment in Germanium Chlorides
 * [10.1021/ic501004u](https://doi.org/10.1021/ic501004u): An Investigation of Chlorine Ligands in Transition-Metal Complexes via <sup>35</sup>Cl Solid-State NMR and Density Functional Theory Calculations
@@ -822,7 +812,7 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1021/ic501004u](https://doi.org/10.1021/ic501004u): An Investigation of Chlorine Ligands in Transition-Metal Complexes via <sup>35</sup>Cl Solid-State NMR and Density Functional Theory Calculations
 * [10.1021/jp5077966](https://doi.org/10.1021/jp5077966): New Insights into the Short-Range Structures of Microporous Titanosilicates As Revealed by <sup>47/49</sup>Ti, <sup>23</sup>Na, <sup>39</sup>K, and <sup>29</sup>Si Solid-State NMR Spectroscopy
 * [10.1039/c8ra00596f](https://doi.org/10.1039/c8ra00596f): <sup>17</sup>O solid-state NMR spectroscopy of A<sub>2</sub>B<sub>2</sub>O<sub>7</sub>oxides: quantitative isotopic enrichment and spectral acquisition?
-* [10.1103/PhysRevB.76.035102](https://doi.org/10.1103/PhysRevB.76.035102): Density functional theory investigation of<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mrow><mml:mn>3</mml:mn><mml:mi>d</mml:mi></mml:mrow></mml:math>transition metal NMR shielding tensors in diamagnetic systems using the gauge-including projector augmented-wave method
+* [10.1103/PhysRevB.76.035102](https://doi.org/10.1103/PhysRevB.76.035102): Density functional theory investigation of 3dtransition metal NMR shielding tensors in diamagnetic systems using the gauge-including projector augmented-wave method
 ## <sup>51</sup>V
 * [10.1002/chem.200901581](https://doi.org/10.1002/chem.200901581): A <sup>93</sup>Nb Solid‐State NMR and Density Functional Theory Study of Four‐ and Six‐Coordinate Niobate Systems
 * [10.1002/mrc.5420](https://doi.org/10.1002/mrc.5420): Predicting <sup>51</sup>V nuclear magnetic resonance observables in molecular crystals
@@ -830,11 +820,11 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1021/acs.inorgchem.6b02360](https://doi.org/10.1021/acs.inorgchem.6b02360): Combining <sup>27</sup>Al Solid-State NMR and First-Principles Simulations To Explore Crystal Structure in Disordered Aluminum Oxynitride
 * [10.1021/acs.jpcc.5b01616](https://doi.org/10.1021/acs.jpcc.5b01616): Effect of Impregnation on the Structure of Niobium Oxide/Alumina Catalysts Studied by Multinuclear Solid-State NMR, FTIR, and Quantum Chemical Calculations
 * [10.1021/ic5022388](https://doi.org/10.1021/ic5022388): NMR Crystallography for Structural Characterization of Oxovanadium(V) Complexes: Deriving Coordination Geometry and Detecting Weakly Coordinated Ligands at Atomic Resolution in the Solid State
-* [10.1103/PhysRevB.76.035102](https://doi.org/10.1103/PhysRevB.76.035102): Density functional theory investigation of<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mrow><mml:mn>3</mml:mn><mml:mi>d</mml:mi></mml:mrow></mml:math>transition metal NMR shielding tensors in diamagnetic systems using the gauge-including projector augmented-wave method
+* [10.1103/PhysRevB.76.035102](https://doi.org/10.1103/PhysRevB.76.035102): Density functional theory investigation of 3d transition metal NMR shielding tensors in diamagnetic systems using the gauge-including projector augmented-wave method
 ## <sup>53</sup>Cr
 * [10.1016/j.pnmrs.2018.08.002](https://doi.org/10.1016/j.pnmrs.2018.08.002): Recent advances in solid-state nuclear magnetic resonance spectroscopy of exotic nuclei
 * [10.1021/acs.jpca.5b09392](https://doi.org/10.1021/acs.jpca.5b09392): Solid-State <sup>87</sup>Sr NMR Spectroscopy at Natural Abundance and High Magnetic Field Strength
-* [10.1103/PhysRevB.76.035102](https://doi.org/10.1103/PhysRevB.76.035102): Density functional theory investigation of<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mrow><mml:mn>3</mml:mn><mml:mi>d</mml:mi></mml:mrow></mml:math>transition metal NMR shielding tensors in diamagnetic systems using the gauge-including projector augmented-wave method
+* [10.1103/PhysRevB.76.035102](https://doi.org/10.1103/PhysRevB.76.035102): Density functional theory investigation of 3d transition metal NMR shielding tensors in diamagnetic systems using the gauge-including projector augmented-wave method
 ## <sup>55</sup>Mn
 * [10.1021/acs.jpca.2c06955](https://doi.org/10.1021/acs.jpca.2c06955): Determining Local Magnetic Susceptibility Tensors in Paramagnetic Lanthanide Crystalline Powders from Solid-State NMR Chemical Shift Anisotropies
 * [10.1021/jp507088t](https://doi.org/10.1021/jp507088t): Structural Investigation of Uranium–Neptunium Mixed Oxides Using XRD, XANES, and <sup>17</sup>O MAS NMR
@@ -844,7 +834,7 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1002/cmr.a.10096](https://doi.org/10.1002/cmr.a.10096): Calculations of chemical shieldings: Theory and applications
 * [10.1021/acs.jctc.1c00722](https://doi.org/10.1021/acs.jctc.1c00722): Accurate <sup>57</sup>Fe Mössbauer Parameters from General Gaussian Basis Sets
 * [10.1063/1.1398095](https://doi.org/10.1063/1.1398095): Comparison of <i>ab initio</i> and density functional calculations of electric field gradients: The Fe57 nuclear quadrupole moment from Mössbauer data
-* [10.1103/PhysRevB.76.035102](https://doi.org/10.1103/PhysRevB.76.035102): Density functional theory investigation of<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mrow><mml:mn>3</mml:mn><mml:mi>d</mml:mi></mml:mrow></mml:math>transition metal NMR shielding tensors in diamagnetic systems using the gauge-including projector augmented-wave method
+* [10.1103/PhysRevB.76.035102](https://doi.org/10.1103/PhysRevB.76.035102): Density functional theory investigation of 3d transition metal NMR shielding tensors in diamagnetic systems using the gauge-including projector augmented-wave method
 ## <sup>59</sup>Co
 * [10.1002/chem.200901581](https://doi.org/10.1002/chem.200901581): A <sup>93</sup>Nb Solid‐State NMR and Density Functional Theory Study of Four‐ and Six‐Coordinate Niobate Systems
 * [10.1016/j.pnmrs.2018.08.002](https://doi.org/10.1016/j.pnmrs.2018.08.002): Recent advances in solid-state nuclear magnetic resonance spectroscopy of exotic nuclei
@@ -928,7 +918,7 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1021/cg201683p](https://doi.org/10.1021/cg201683p): Weak Halogen Bonding in Solid Haloanilinium Halides Probed Directly via Chlorine-35, Bromine-81, and Iodine-127 NMR Spectroscopy
 * [10.1039/c4ce00345d](https://doi.org/10.1039/c4ce00345d): Probing halogen bonds with solid-state NMR spectroscopy: observation and interpretation of J(<sup>77</sup>Se,<sup>31</sup>P) coupling in halogen-bonded PSe⋯I motifs
 * [10.1039/C4CP01486C](https://doi.org/10.1039/C4CP01486C): A combined<sup>77</sup>Se NMR and molecular dynamics contribution to the structural understanding of the chalcogenide glasses
-* [10.1103/PhysRevB.76.035102](https://doi.org/10.1103/PhysRevB.76.035102): Density functional theory investigation of<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mrow><mml:mn>3</mml:mn><mml:mi>d</mml:mi></mml:mrow></mml:math>transition metal NMR shielding tensors in diamagnetic systems using the gauge-including projector augmented-wave method
+* [10.1103/PhysRevB.76.035102](https://doi.org/10.1103/PhysRevB.76.035102): Density functional theory investigation of 3d transition metal NMR shielding tensors in diamagnetic systems using the gauge-including projector augmented-wave method
 ## <sup>79</sup>Br
 * [10.1016/j.ssnmr.2014.08.003](https://doi.org/10.1016/j.ssnmr.2014.08.003): On the crystal structure of the vaterite polymorph of CaCO3: A calcium-43 solid-state NMR and computational assessment
 * [10.1016/j.ssnmr.2016.12.009](https://doi.org/10.1016/j.ssnmr.2016.12.009): 127I NMR calculations in binary metal iodides by PBE-GGA, YS-PBE0 and mBJ exchange correlation potentials
@@ -1038,7 +1028,6 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1016/j.ssnmr.2014.01.001](https://doi.org/10.1016/j.ssnmr.2014.01.001): NMR parameters in column 13 metal fluoride compounds (AlF3, GaF3, InF3 and TlF) from first principle calculations
 * [10.1021/acs.jpca.8b11490](https://doi.org/10.1021/acs.jpca.8b11490): <sup>121/123</sup>Sb Nuclear Quadrupole Resonance Spectroscopy: Characterization of Non-Covalent Pnictogen Bonds and NQR Crystallography
 * [10.1039/b914008p](https://doi.org/10.1039/b914008p): Solid-state NMR spectroscopy
-* [10.1039/c0xx00000x](https://doi.org/10.1039/c0xx00000x): 
 * [10.1039/c1cp21253b](https://doi.org/10.1039/c1cp21253b): NMR parameters in alkali, alkaline earth and rare earth fluorides from first principle calculations
 * [10.1039/C3CP53642D](https://doi.org/10.1039/C3CP53642D): Joint experimental and computational 17O solid state NMR study of Brownmillerite Ba2In2O5
 ## <sup>119</sup>Sn
@@ -1074,7 +1063,7 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1021/acs.inorgchem.7b02913](https://doi.org/10.1021/acs.inorgchem.7b02913): <sup>125</sup>Te NMR Probes of Tellurium Oxide Crystals: Shielding-Structure Correlations
 * [10.1021/acs.jctc.8b01296](https://doi.org/10.1021/acs.jctc.8b01296): A DFT/ZORA Study of Cadmium Magnetic Shielding Tensors: Analysis of Relativistic Effects and Electronic-State Approximations
 * [10.1088/2053-1591/ab3eea](https://doi.org/10.1088/2053-1591/ab3eea): Comparison between optoelectronic spectra and NMR shielding in tellurium based compounds: a FP-LAPW study
-* [10.1103/PhysRevB.76.035102](https://doi.org/10.1103/PhysRevB.76.035102): Density functional theory investigation of<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mrow><mml:mn>3</mml:mn><mml:mi>d</mml:mi></mml:mrow></mml:math>transition metal NMR shielding tensors in diamagnetic systems using the gauge-including projector augmented-wave method
+* [10.1103/PhysRevB.76.035102](https://doi.org/10.1103/PhysRevB.76.035102): Density functional theory investigation of 3d transition metal NMR shielding tensors in diamagnetic systems using the gauge-including projector augmented-wave method
 ## <sup>127</sup>I
 * [10.1016/j.ssnmr.2016.12.009](https://doi.org/10.1016/j.ssnmr.2016.12.009): 127I NMR calculations in binary metal iodides by PBE-GGA, YS-PBE0 and mBJ exchange correlation potentials
 * [10.1021/acs.jpca.3c02350](https://doi.org/10.1021/acs.jpca.3c02350): Experimentally Established <sup>15</sup>N NMR Absolute Shielding Scale for Theoretical Calculations
