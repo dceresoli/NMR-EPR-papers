@@ -229,6 +229,7 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1039/c5ra02505b](https://doi.org/10.1039/c5ra02505b): Evidence for changes on the lithium conduction dimensionality of Li<sub>0.5−y</sub>Na<sub>y</sub>La<sub>0.5</sub>Nb<sub>2</sub>O<sub>6</sub> (0 ≤ y ≤ 0.5) perovskites
 * [10.1039/C6RA03339C](https://doi.org/10.1039/C6RA03339C): DFT simulations of<sup>7</sup>Li solid state NMR spectral parameters and Li<sup>+</sup>ion migration barriers in Li<sub>2</sub>ZrO<sub>3</sub>
 * [10.1039/d4fd00075g](https://doi.org/10.1039/d4fd00075g): The EFG Rosetta Stone: translating between DFT calculations and solid state NMR experiments
+* [10.1016/S0926-2040(03)00017-1](https://doi.org/10.1016/S0926-2040(03)00017-1): <sup>59</sup>Co, <sup>23</sup>Na NMR and electric field gradient calculations in the layered cobalt oxides NaCoO<sub>2</sub> and HCoO<sub>2</sub>
 
 ## <sup>9</sup>Be
 * [10.1002/cmr.a.10096](https://doi.org/10.1002/cmr.a.10096): Calculations of chemical shieldings: Theory and applications
@@ -557,6 +558,7 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1039/c5ra02505b](https://doi.org/10.1039/c5ra02505b): Evidence for changes on the lithium conduction dimensionality of Li<sub>0.5−y</sub>Na<sub>y</sub>La<sub>0.5</sub>Nb<sub>2</sub>O<sub>6</sub> (0 ≤ y ≤ 0.5) perovskites
 * [10.1039/D4FD00075G](https://doi.org/10.1039/D4FD00075G): The EFG Rosetta Stone: Translating between DFT calculations and solid state NMR experiments
 * [10.1111/jace.14845](https://doi.org/10.1111/jace.14845): Understanding the structural origin of crystalline phase transformations in nepheline (NaAlSiO<sub>4</sub>)‐based glass‐ceramics
+* [10.1016/S0926-2040(03)00017-1](https://doi.org/10.1016/S0926-2040(03)00017-1): <sup>59</sup>Co, <sup>23</sup>Na NMR and electric field gradient calculations in the layered cobalt oxides NaCoO<sub>2</sub> and HCoO<sub>2</sub>
 
 ## <sup>25</sup>Mg
 * [10.1002/cmr.a.10096](https://doi.org/10.1002/cmr.a.10096): Calculations of chemical shieldings: Theory and applications
@@ -877,6 +879,7 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1016/j.pnmrs.2018.08.002](https://doi.org/10.1016/j.pnmrs.2018.08.002): Recent advances in solid-state nuclear magnetic resonance spectroscopy of exotic nuclei
 * [10.1016/j.ssnmr.2014.08.003](https://doi.org/10.1016/j.ssnmr.2014.08.003): On the crystal structure of the vaterite polymorph of CaCO3: A calcium-43 solid-state NMR and computational assessment
 * [10.1039/b616821c](https://doi.org/10.1039/b616821c): A solid-state 55Mn NMR spectroscopy and DFT investigation of manganese pentacarbonyl compounds
+* [10.1016/S0926-2040(03)00017-1](https://doi.org/10.1016/S0926-2040(03)00017-1): <sup>59</sup>Co, <sup>23</sup>Na NMR and electric field gradient calculations in the layered cobalt oxides NaCoO<sub>2</sub> and HCoO<sub>2</sub>
 
 ## <sup>60</sup>Co
 * [10.1021/jp5077966](https://doi.org/10.1021/jp5077966): New Insights into the Short-Range Structures of Microporous Titanosilicates As Revealed by <sup>47/49</sup>Ti, <sup>23</sup>Na, <sup>39</sup>K, and <sup>29</sup>Si Solid-State NMR Spectroscopy
@@ -965,6 +968,7 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1039/c4ce00345d](https://doi.org/10.1039/c4ce00345d): Probing halogen bonds with solid-state NMR spectroscopy: observation and interpretation of J(<sup>77</sup>Se,<sup>31</sup>P) coupling in halogen-bonded PSe⋯I motifs
 * [10.1039/C4CP01486C](https://doi.org/10.1039/C4CP01486C): A combined<sup>77</sup>Se NMR and molecular dynamics contribution to the structural understanding of the chalcogenide glasses
 * [10.1103/PhysRevB.76.035102](https://doi.org/10.1103/PhysRevB.76.035102): Density functional theory investigation of 3d transition metal NMR shielding tensors in diamagnetic systems using the gauge-including projector augmented-wave method
+* [10.1021/acs.jpcc.4c07712](https://doi.org/10.1021/acs.jpcc.4c07712): <sup>77</sup>Se Solid-State NMR Investigation of Selenium Chemical Shift Tensors of Chalcogen Bonds in Selenadiazole Cocrystals
 
 ## <sup>79</sup>Br
 * [10.1016/j.ssnmr.2014.08.003](https://doi.org/10.1016/j.ssnmr.2014.08.003): On the crystal structure of the vaterite polymorph of CaCO3: A calcium-43 solid-state NMR and computational assessment
