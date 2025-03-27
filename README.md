@@ -231,6 +231,9 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1039/d4fd00075g](https://doi.org/10.1039/d4fd00075g): The EFG Rosetta Stone: translating between DFT calculations and solid state NMR experiments
 * [10.1016/S0926-2040(03)00017-1](https://doi.org/10.1016/S0926-2040(03)00017-1): <sup>59</sup>Co, <sup>23</sup>Na NMR and electric field gradient calculations in the layered cobalt oxides NaCoO<sub>2</sub> and HCoO<sub>2</sub>
 
+## <sup>8</sup>Li<sup>+</sup> (beta-NMR)
+* [10.48550/arXiv.2503.19204](https://doi.org/10.48550/arXiv.2503.19204): Lithium-ion dynamics in synthetic quartz studied via the NMR of implanted <sup>8<sup>Li<sup>+<sup>
+
 ## <sup>9</sup>Be
 * [10.1002/cmr.a.10096](https://doi.org/10.1002/cmr.a.10096): Calculations of chemical shieldings: Theory and applications
 * [10.1016/j.jmr.2018.01.016](https://doi.org/10.1016/j.jmr.2018.01.016): Two-site jumps in dimethyl sulfone studied by one- and two-dimensional 17O NMR spectroscopy
