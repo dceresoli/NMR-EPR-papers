@@ -87,12 +87,13 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1111/jace.14845](https://doi.org/10.1111/jace.14845): Understanding the structural origin of crystalline phase transformations in nepheline (NaAlSiO<sub>4</sub>)‐based glass‐ceramics
 * [10.1139/V11-009](https://doi.org/10.1139/V11-009): A multinuclear solid-state magnetic resonance and GIPAW DFT study of anhydrous calcium chloride and its hydrates
 * [10.3390/molecules25040933](https://doi.org/10.3390/molecules25040933): Computational and Experimental 1H-NMR Study of Hydrated Mg-Based Minerals
-* [dx.doi.org/10.1021/ic402658d](https://doi.org/dx.doi.org/10.1021/ic402658d): Alkaline-Earth Metal Carboxylates Characterized by <sup>43</sup>Ca and <sup>87</sup>Sr Solid-State NMR: Impact of Metal-Amine Bonding
-* [dx.doi.org/10.1021/ic500728w](https://doi.org/dx.doi.org/10.1021/ic500728w): Chlorine-35 Solid-State NMR Spectroscopy as an Indirect Probe of Germanium Oxidation State and Coordination Environment in Germanium Chlorides
-* [dx.doi.org/10.1021/ic501004u](https://doi.org/dx.doi.org/10.1021/ic501004u): An Investigation of Chlorine Ligands in Transition-Metal Complexes via <sup>35</sup>Cl Solid-State NMR and Density Functional Theory Calculations
-* [dx.doi.org/10.1021/jp405813a](https://doi.org/dx.doi.org/10.1021/jp405813a): Structure of NaYF<sub>4</sub> Upconverting Nanoparticles: A Multinuclear Solid-State NMR and DFT Computational Study
-* [dx.doi.org/10.1021/jp503277m](https://doi.org/dx.doi.org/10.1021/jp503277m): Visibility of Al Surface Sites of γ-Alumina: A Combined Computational and Experimental Point of View
-* [dx.doi.org/10.1021/jp507644z](https://doi.org/dx.doi.org/10.1021/jp507644z): Investigating Relationships between the Crystal Structure and <sup>31</sup>P Isotropic Chemical Shifts in Calcined Aluminophosphates
+* [10.1021/ic402658d](https://doi.org/dx.doi.org/10.1021/ic402658d): Alkaline-Earth Metal Carboxylates Characterized by <sup>43</sup>Ca and <sup>87</sup>Sr Solid-State NMR: Impact of Metal-Amine Bonding
+* [10.1021/ic500728w](https://doi.org/dx.doi.org/10.1021/ic500728w): Chlorine-35 Solid-State NMR Spectroscopy as an Indirect Probe of Germanium Oxidation State and Coordination Environment in Germanium Chlorides
+* [10.1021/ic501004u](https://doi.org/dx.doi.org/10.1021/ic501004u): An Investigation of Chlorine Ligands in Transition-Metal Complexes via <sup>35</sup>Cl Solid-State NMR and Density Functional Theory Calculations
+* [10.1021/jp405813a](https://doi.org/dx.doi.org/10.1021/jp405813a): Structure of NaYF<sub>4</sub> Upconverting Nanoparticles: A Multinuclear Solid-State NMR and DFT Computational Study
+* [10.1021/jp503277m](https://doi.org/dx.doi.org/10.1021/jp503277m): Visibility of Al Surface Sites of γ-Alumina: A Combined Computational and Experimental Point of View
+* [10.1021/jp507644z](https://doi.org/dx.doi.org/10.1021/jp507644z): Investigating Relationships between the Crystal Structure and <sup>31</sup>P Isotropic Chemical Shifts in Calcined Aluminophosphates
+* [10.1021/acs.jpca.5c00025](https://dx.doi.org/10.1021/acs.jpca.5c00025): NMR Crystallography Structure Determinations with <sup>1<</sup>H Chemical Shifts. GIPAW DFT Calculation Quality Can Be Substantially Degraded, but Nearly Identical Outputs Relative to Benchmark Computations Are Obtained: Why and So What?
 
 ## <sup>2</sup>H
 * [10.1002/chem.201301268](https://doi.org/10.1002/chem.201301268): A Study of Transition‐Metal Organometallic Complexes Combining <sup>35</sup>Cl Solid‐State NMR Spectroscopy and <sup>35</sup>Cl NQR Spectroscopy and First‐Principles DFT Calculations
