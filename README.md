@@ -826,6 +826,7 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1107/S205322961601929X](https://doi.org/10.1107/S205322961601929X): Insight into the local environment of magnesium and calcium in low-coordination-number organo-complexes using <sup>25</sup>Mg and <sup>43</sup>Ca solid-state NMR: a DFT study
 * [10.1111/jace.14845](https://doi.org/10.1111/jace.14845): Understanding the structural origin of crystalline phase transformations in nepheline (NaAlSiO<sub>4</sub>)‐based glass‐ceramics
 * [10.1139/V11-009](https://doi.org/10.1139/V11-009): A multinuclear solid-state magnetic resonance and GIPAW DFT study of anhydrous calcium chloride and its hydrates
+* [10.1039/d5cp00491h](https://doi.org/10.1039/d5cp00491h): Is there a future for <sup>43</sup>Ca nuclear magnetic resonance in cement science?
 
 ## <sup>45</sup>Sc
 * [10.1016/j.solidstatesciences.2015.11.002](https://doi.org/10.1016/j.solidstatesciences.2015.11.002): A  45 Sc-NMR and DFT calculation study of crystalline scandium compounds
