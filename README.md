@@ -475,6 +475,7 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1063/1.1398095](https://doi.org/10.1063/1.1398095): Comparison of <i>ab initio</i> and density functional calculations of electric field gradients: The Fe57 nuclear quadrupole moment from Mössbauer data
 * [10.1103/PhysRevB.76.035102](https://doi.org/10.1103/PhysRevB.76.035102): Density functional theory investigation of 3d transition metal NMR shielding tensors in diamagnetic systems using the gauge-including projector augmented-wave method
 * [10.1111/jace.14845](https://doi.org/10.1111/jace.14845): Understanding the structural origin of crystalline phase transformations in nepheline (NaAlSiO<sub>4</sub>)‐based glass‐ceramics
+* [arXiv:2506.17443v1](https://arxiv.org/abs/2506.17443v1): Single-Crystal NMR for <sup>17</sup>O in Alanine Enantiomers
 
 ## <sup>19</sup>F
 * [10.1002/cmr.a.10096](https://doi.org/10.1002/cmr.a.10096): Calculations of chemical shieldings: Theory and applications
