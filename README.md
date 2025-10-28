@@ -476,7 +476,6 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1103/PhysRevB.76.035102](https://doi.org/10.1103/PhysRevB.76.035102): Density functional theory investigation of 3d transition metal NMR shielding tensors in diamagnetic systems using the gauge-including projector augmented-wave method
 * [10.1111/jace.14845](https://doi.org/10.1111/jace.14845): Understanding the structural origin of crystalline phase transformations in nepheline (NaAlSiO<sub>4</sub>)‐based glass‐ceramics
 * [arXiv:2506.17443v1](https://arxiv.org/abs/2506.17443v1): Single-Crystal NMR for <sup>17</sup>O in Alanine Enantiomers
-
 ## <sup>19</sup>F
 * [10.1002/cmr.a.10096](https://doi.org/10.1002/cmr.a.10096): Calculations of chemical shieldings: Theory and applications
 * [10.1016/j.cplett.2016.10.071](https://doi.org/10.1016/j.cplett.2016.10.071): The plane-wave DFT investigations into the structure and the 11B solid-state NMR parameters of lithium fluorooxoborates
@@ -517,6 +516,7 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1039/C5DT04028K](https://doi.org/10.1039/C5DT04028K): Structural refinement of the RT LaOF phases by coupling powder X-Ray diffraction,<sup>19</sup>F and<sup>139</sup>La solid state NMR and DFT calculations of the NMR parameters
 * [10.1039/C6DT02454H](https://doi.org/10.1039/C6DT02454H): Structure determination of Ba<sub>5</sub>AlF<sub>13</sub>by coupling electron, synchrotron and neutron powder diffraction, solid-state NMR and ab initio calculations
 * [10.1107/S2053229616015023](https://doi.org/10.1107/S2053229616015023): <sup>13</sup>C and<sup>19</sup>F solid-state NMR and X-ray crystallographic study of halogen-bonded frameworks featuring nitrogen-containing heterocycles
+* [10.1002/pssa.202500630](https://doi.org/10.1002/pssa.202500630): Identification of Paramagnetic Centers in Irradiated F-Doped Silica by First-Principle Calculations
 
 ## <sup>22</sup>Na
 * [10.1021/jp5077966](https://doi.org/10.1021/jp5077966): New Insights into the Short-Range Structures of Microporous Titanosilicates As Revealed by <sup>47/49</sup>Ti, <sup>23</sup>Na, <sup>39</sup>K, and <sup>29</sup>Si Solid-State NMR Spectroscopy
