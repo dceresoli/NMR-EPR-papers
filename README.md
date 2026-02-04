@@ -1230,6 +1230,7 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 ## <sup>193</sup>Ir
 * [10.1002/chem.201301268](https://doi.org/10.1002/chem.201301268): A Study of Transition‐Metal Organometallic Complexes Combining <sup>35</sup>Cl Solid‐State NMR Spectroscopy and <sup>35</sup>Cl NQR Spectroscopy and First‐Principles DFT Calculations
 * [10.1016/j.pnmrs.2018.08.002](https://doi.org/10.1016/j.pnmrs.2018.08.002): Recent advances in solid-state nuclear magnetic resonance spectroscopy of exotic nuclei
+* [10.7566/JPSJ.95.033702](https://doi.org/10.7566/JPSJ.95.033702): First Theoretical Investigation of <sup>193</sup>Ir Mössbauer Spectra of Iridium Oxides based on ab-initio Calculations
 
 ## <sup>195</sup>Pt
 * [10.1002/chem.200901581](https://doi.org/10.1002/chem.200901581): A <sup>93</sup>Nb Solid‐State NMR and Density Functional Theory Study of Four‐ and Six‐Coordinate Niobate Systems
