@@ -1238,6 +1238,7 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1021/acs.inorgchem.5b00396](https://doi.org/10.1021/acs.inorgchem.5b00396): Evaluation of<sup>95</sup>Mo Nuclear Shielding and Chemical Shift of [Mo<sub>6</sub>X<sub>14</sub>]<sup>2–</sup>Clusters in the Liquid Phase
 * [10.1021/acs.jctc.8b01296](https://doi.org/10.1021/acs.jctc.8b01296): A DFT/ZORA Study of Cadmium Magnetic Shielding Tensors: Analysis of Relativistic Effects and Electronic-State Approximations
 * [10.1039/C3DT53594K](https://doi.org/10.1039/C3DT53594K): Accurate prediction of<sup>195</sup>Pt NMR chemical shifts for a series of Pt(<scp>ii</scp>) and Pt(<scp>iv</scp>) antitumor agents by a non-relativistic DFT computational protocol
+* [10.1021/acs.inorgchem.5c05169](https://doi.org/10.1021/acs.inorgchem.5c05169) Effects of Structure and Bonding on <sup>195</sup>Pt Magnetic Shielding Tensors: Insights from Relativistic DFT and Localized Molecular Orbital Analysis
 
 ## <sup>197</sup>Au
 * [10.1016/j.pnmrs.2018.08.002](https://doi.org/10.1016/j.pnmrs.2018.08.002): Recent advances in solid-state nuclear magnetic resonance spectroscopy of exotic nuclei
