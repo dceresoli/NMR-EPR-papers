@@ -287,6 +287,9 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1063/1.4751476](https://doi.org/10.1063/1.4751476): High resolution 11B NMR of magnesium diboride using cryogenic magic angle spinning
 * [10.1107/S2053229616015023](https://doi.org/10.1107/S2053229616015023): <sup>13</sup>C and<sup>19</sup>F solid-state NMR and X-ray crystallographic study of halogen-bonded frameworks featuring nitrogen-containing heterocycles
 * [10.1111/jace.14845](https://doi.org/10.1111/jace.14845): Understanding the structural origin of crystalline phase transformations in nepheline (NaAlSiO<sub>4</sub>)‐based glass‐ceramics
+* [10.1016/j.ssnmr.2026.102090](https://doi.org/10.1016/j.ssnmr.2026.102090): NMR Determined Interactions in CaB<sub>6</sub>-structured Metal Hexaborides: Correlation with Structure and Properties
+* [10.1016/j.ssnmr.2026.102091](https://doi.org/10.1016/j.ssnmr.2026.102091): Nuclear Hyperfine Interactions in Critical Metal AlB<sub>2</sub>-Structured Diborides and Correlations to Physical Properties
+
 
 ## <sup>13</sup>C
 * [10.1002/anie.201406320](https://doi.org/10.1002/anie.201406320): Characterization of a Multicomponent Lithium Lithiate from a Combined X‐Ray Diffraction, NMR Spectroscopy, and Computational Approach
@@ -745,6 +748,8 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1039/C4CE00727A](https://doi.org/10.1039/C4CE00727A): Dynamics of water molecules and sodium ions in solid hydrates of nucleotides
 * [10.1063/1.5075519](https://doi.org/10.1063/1.5075519): Local-structure effects on 31P NMR chemical shift tensors in solid state
 * [10.1103/PhysRevB.76.035102](https://doi.org/10.1103/PhysRevB.76.035102): Density functional theory investigation of 3d transition metal NMR shielding tensors in diamagnetic systems using the gauge-including projector augmented-wave method
+* [10.1021/acs.inorgchem.6c00428](https://doi.org/10.1021/acs.inorgchem.6c00428): Peculiarities of Relativistic Effects in <sup>31</sup>P NMR Shielding Constants of Phosphines and Phosphine Chalcogenides
+
 
 ## <sup>33</sup>S
 * [10.1016/j.pnmrs.2018.08.002](https://doi.org/10.1016/j.pnmrs.2018.08.002): Recent advances in solid-state nuclear magnetic resonance spectroscopy of exotic nuclei
