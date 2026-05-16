@@ -94,6 +94,7 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1021/jp503277m](https://doi.org/dx.doi.org/10.1021/jp503277m): Visibility of Al Surface Sites of γ-Alumina: A Combined Computational and Experimental Point of View
 * [10.1021/jp507644z](https://doi.org/dx.doi.org/10.1021/jp507644z): Investigating Relationships between the Crystal Structure and <sup>31</sup>P Isotropic Chemical Shifts in Calcined Aluminophosphates
 * [10.1021/acs.jpca.5c00025](https://dx.doi.org/10.1021/acs.jpca.5c00025): NMR Crystallography Structure Determinations with <sup>1<</sup>H Chemical Shifts. GIPAW DFT Calculation Quality Can Be Substantially Degraded, but Nearly Identical Outputs Relative to Benchmark Computations Are Obtained: Why and So What?
+* [10.1021/acs.chemmater.5c03181](https://doi.org/10.1021/acs.chemmater.5c03181) Facile Synthesis of Oxyhydrides by Reaction with NaBH<sub>4</sub> in an Open System
 
 ## <sup>2</sup>H
 * [10.1002/chem.201301268](https://doi.org/10.1002/chem.201301268): A Study of Transition‐Metal Organometallic Complexes Combining <sup>35</sup>Cl Solid‐State NMR Spectroscopy and <sup>35</sup>Cl NQR Spectroscopy and First‐Principles DFT Calculations
