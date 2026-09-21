@@ -94,7 +94,7 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 * [10.1021/jp503277m](https://doi.org/dx.doi.org/10.1021/jp503277m): Visibility of Al Surface Sites of γ-Alumina: A Combined Computational and Experimental Point of View
 * [10.1021/jp507644z](https://doi.org/dx.doi.org/10.1021/jp507644z): Investigating Relationships between the Crystal Structure and <sup>31</sup>P Isotropic Chemical Shifts in Calcined Aluminophosphates
 * [10.1021/acs.jpca.5c00025](https://dx.doi.org/10.1021/acs.jpca.5c00025): NMR Crystallography Structure Determinations with <sup>1<</sup>H Chemical Shifts. GIPAW DFT Calculation Quality Can Be Substantially Degraded, but Nearly Identical Outputs Relative to Benchmark Computations Are Obtained: Why and So What?
-* [10.1021/acs.chemmater.5c03181](https://doi.org/10.1021/acs.chemmater.5c03181) Facile Synthesis of Oxyhydrides by Reaction with NaBH<sub>4</sub> in an Open System
+* [10.1021/acs.chemmater.5c03181](https://doi.org/10.1021/acs.chemmater.5c03181): Facile Synthesis of Oxyhydrides by Reaction with NaBH<sub>4</sub> in an Open System
 
 ## <sup>2</sup>H
 * [10.1002/chem.201301268](https://doi.org/10.1002/chem.201301268): A Study of Transition‐Metal Organometallic Complexes Combining <sup>35</sup>Cl Solid‐State NMR Spectroscopy and <sup>35</sup>Cl NQR Spectroscopy and First‐Principles DFT Calculations
@@ -235,6 +235,7 @@ The DOIs have been extracted from the PDF files using a shell script. Some entry
 
 ## <sup>8</sup>Li<sup>+</sup> (beta-NMR)
 * [10.48550/arXiv.2503.19204](https://doi.org/10.48550/arXiv.2503.19204): Lithium-ion dynamics in synthetic quartz studied via the NMR of implanted <sup>8</sup>Li<sup>+</sup>
+* [10.1088/1742-6596/3222/1/012025](https://doi.org/10.1088/1742-6596/3222/1/012025): Site identification of Li<sup>+</sup> in rutile TiO<sub>2</sub> and MgF<sub>2</sub> by the NMR of ion-implanted <sup>8</sup>Li and DFT
 
 ## <sup>9</sup>Be
 * [10.1002/cmr.a.10096](https://doi.org/10.1002/cmr.a.10096): Calculations of chemical shieldings: Theory and applications
